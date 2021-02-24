@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="20px" viewBox="0 0 18 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M9.44897959,0.523660714 L9.50382653,0.523660714 L5.20663265,0 L4.87627551,0 L0.496173469,0.523660714 L0.551020408,0.523660714 C0.24744898,0.58125 0,0.84375 0,1.19196429 L0,5.37589286 C0,5.37589286 0.413265306,10.5763393 4.98596939,12 L5.04081633,12 C9.25637755,10.6928571 9.91709184,6.13125 10,5.46294643 L10,1.07544643 C9.97193878,0.755357143 9.75255102,0.523660714 9.44897959,0.523660714 Z M7.35586735,4.79464286 L4.60076531,7.69955357 C4.57270408,7.72901786 4.51785714,7.75714286 4.49107143,7.78660714 C4.38137755,7.84419643 4.21556122,7.81607143 4.13265306,7.69955357 L2.58928571,6.07232143 C2.45153061,5.92767857 2.45153061,5.72410714 2.58928571,5.578125 C2.72704082,5.43214286 2.91964286,5.43348214 3.05739796,5.578125 L4.35204082,6.94419643 L6.85841837,4.30044643 C6.99617347,4.15580357 7.18877551,4.15580357 7.32653061,4.30044643 C7.49362245,4.41696429 7.49362245,4.64866071 7.35586735,4.79464286 Z" id="path-1"></path>
+        <filter x="-60.0%" y="-50.0%" width="220.0%" height="200.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0575650399   0 0 0 0 0.402727623   0 0 0 0 0.66541773  0 0 0 0.621206975 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="审核管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="签约申请" transform="translate(-32.000000, -616.000000)">
+            <g id="leif" transform="translate(20.000000, 94.000000)">
+                <g id="二级菜单">
+                    <g id="Group-11" transform="translate(12.000000, 522.000000)">
+                        <circle id="Oval-Copy-4" fill="#28A0FB" cx="9" cy="9" r="9"></circle>
+                        <g id="权限" transform="translate(4.000000, 4.000000)" fill-rule="nonzero">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M11.1094244,8.35316842 L8.19927805,8.35316842 C7.93153683,8.06450614 7.76356683,7.69909906 7.71965854,7.30978947 C7.59330732,5.71861053 9.32843415,4.95528289 9.32843415,3.00239211 C9.33259024,1.34528553 8.05349268,0.00538421053 6.00117073,0.00538421053 C3.94890732,0.00538421053 2.66973659,1.34528553 2.66973659,3.00239211 C2.66973659,4.95528289 4.40484878,5.71655526 4.27993171,7.30978947 C4.23678823,7.69876423 4.0698221,8.06412786 3.80312195,8.35316842 L0.890180488,8.35316842 C0.400214634,8.35316842 0.0046097561,8.74514474 0.0046097561,9.22902895 L0.0046097561,10.9884355 L11.9970878,10.9884355 L11.9970878,9.22902895 C11.9959463,8.74498553 11.5988488,8.35316842 11.1094244,8.35316842 Z" id="path-1"></path>
+        <filter x="-29.2%" y="-22.8%" width="158.4%" height="163.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0833762473   0 0 0 0 0.434997984   0 0 0 0 0.617320366  0 0 0 0.613337862 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="审核管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="签约申请" transform="translate(-32.000000, -113.000000)">
+            <g id="leif" transform="translate(20.000000, 94.000000)">
+                <g id="二级菜单">
+                    <g id="Group-5" transform="translate(12.000000, 19.000000)">
+                        <circle id="Oval" fill="#079EED" cx="9" cy="9" r="9"></circle>
+                        <g id="审核" transform="translate(3.000000, 3.000000)" fill-rule="nonzero">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

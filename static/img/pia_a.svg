@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="数据管理" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="会员列表-添加新会员" transform="translate(-235.000000, -164.000000)">
+            <g id="logo" transform="translate(235.000000, 164.000000)">
+                <g id="联系人_个人中心">
+                    <rect id="Rectangle-2" fill="#079EED" x="0" y="0" width="28" height="28" rx="4"></rect>
+                    <path d="M13.9999997,7.00848443 C16.2285584,7.00848443 18.0462812,8.77109033 18.0462812,10.9318186 C18.0462812,13.0927559 16.2285584,14.8551528 13.9999997,14.8551528 C11.7716565,14.8551528 9.95350263,13.0927559 9.95350263,10.9318186 C9.95350263,8.77109033 11.7716565,7.00848443 13.9999997,7.00848443 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <path d="M20.9874442,21.9866637 L7.0125552,21.9866637 C7.14102227,18.7816218 10.2199209,16.2165015 13.9999997,16.2165015 C17.7800785,16.2165015 20.8591927,18.7816218 20.9874442,21.9866637 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
